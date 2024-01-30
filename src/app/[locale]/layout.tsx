@@ -6,10 +6,9 @@ export async function generateMetadata({
 }: {
   params: { locale: string };
 }) {
-  const t = await getTranslations({ locale, namespace: 'Metadata' });
+  const t = await getTranslations({ locale });
 
   return {
-    // Here we can see that it doesn't found the keys, but these already exists and are working on the browser properly.
     title: t('title'),
     description: t('description'),
   };
