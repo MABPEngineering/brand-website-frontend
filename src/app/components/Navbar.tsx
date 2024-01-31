@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 const Navbar = () => {
   const t = useTranslations("navbar");
@@ -7,22 +8,28 @@ const Navbar = () => {
     <nav className="dark:bg-gray-900">
       <ul className="flex p-4 space-x-10">
         <li>
-          <a
-            href="#"
+          <Link
+            href="/"
             className="bg-blue-700 bg-transparent text-blue-700 hover:text-gray-700"
           >
             {t("home")}
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#" className="hover:bg-transparent hover:text-gray-700">
+          <Link
+            href="/aboutus"
+            className="hover:bg-transparent hover:text-gray-700"
+          >
             {t("aboutus")}
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#" className="hover:bg-transparent hover:text-gray-700">
+          <Link
+            href="/blog"
+            className="hover:bg-transparent hover:text-gray-700"
+          >
             {t("blog")}
-          </a>
+          </Link>
         </li>
       </ul>
     </nav>
