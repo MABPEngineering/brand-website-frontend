@@ -4,5 +4,10 @@
 
   "Index": {
     "title": "Bonjour, le monde!"
+  },
+  "navbar": {
+    "home": "Accueil",
+    "aboutus": "Presentation de l'equipe",
+    "blog": "Blog"
   }
 }
