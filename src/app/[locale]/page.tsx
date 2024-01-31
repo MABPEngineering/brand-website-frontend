@@ -1,13 +1,15 @@
-import Link from 'next/link';
-import { useTranslations } from 'next-intl';
+import { useTranslations } from "next-intl";
+import Link from "next/link";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
-  const t = useTranslations('Index');
+  const t = useTranslations("Index");
 
   return (
     <div>
-      <h1>{t('title')}</h1>
+      <Navbar />
       <div className="flex flex-col">
+        <h1>{t("title")}</h1>
         <div>
           <Link locale="es" href="/es">
             Español

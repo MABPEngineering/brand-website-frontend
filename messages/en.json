@@ -4,5 +4,10 @@
 
   "Index": {
     "title": "Hello world!"
+  },
+  "navbar": {
+    "home": "Home",
+    "aboutus": "About us",
+    "blog": "Blog"
   }
 }
