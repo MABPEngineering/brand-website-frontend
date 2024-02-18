@@ -1,13 +1,13 @@
 {
-  "title": "MABP Brand Website ES",
-  "description": "Mejor Brand Website en le mundo!",
-
-  "Index": {
-    "title": "Hola mundo!"
+  "title": "Stellium",
+  "description": "¡El mejor sitio web de marca en el mundo!",
+  "main": {
+    "title": "Desde sitios web estelares hasta productos únicos, ofrecemos soluciones fuera de este mundo.",
+    "subtitle": "Lo hicimos tan hermoso y simple. Combina aterrizajes, páginas, blogs y pantallas de tienda. ¡Definitivamente es la herramienta que necesitas en tu colección!",
+    "contactButton": "Contáctenos",
+    "ourServicesButton": "Nuestros Servicios"
   },
-  "navbar": {
-    "home": "Inicio",
-    "aboutus": "Presentación del equipo",
-    "blog": "Blog"
-  }
+  "about": "Sobre nosotros",
+  "services": "Nuestros servicios",
+  "contact": "Contáctenos"
 }

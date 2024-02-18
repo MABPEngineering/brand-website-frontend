@@ -1,13 +1,13 @@
 {
-  "title": "MABP Brand Website EN",
+  "title": "Stellium",
   "description": "Best Brand Website in the world!",
-
-  "Index": {
-    "title": "Hello world!"
+  "main": {
+    "title": "From stellar websites to unique products, we deliver out-of-this-world solutions.",
+    "subtitle": "We made it so beautiful and simple. It combines landings, pages, blogs and shop screens. It is definitely the tool you need in your collection! ",
+    "contactButton": "Contact us",
+    "ourServicesButton": "Our Services"
   },
-  "navbar": {
-    "home": "Home",
-    "aboutus": "About us",
-    "blog": "Blog"
-  }
+  "about": "About us",
+  "services": "Our services",
+  "contact": "Contact us"
 }

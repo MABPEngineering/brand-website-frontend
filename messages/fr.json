@@ -1,13 +1,13 @@
 {
-  "title": "Site Web de Marque MABP FR",
-  "description": "Meilleur site web de marque d'entreprise dans le monde!",
-
-  "Index": {
-    "title": "Bonjour, le monde!"
+  "title": "Stellium",
+  "description": "Le meilleur site Web de marque au monde!",
+  "main": {
+    "title": "Des sites Web stellaires à des produits uniques, nous offrons des solutions hors du commun.",
+    "subtitle": "Nous l'avons rendu si beau et simple. Il combine des pages de destination, des pages, des blogs et des écrans de boutique. C'est définitivement l'outil dont vous avez besoin dans votre collection!",
+    "contactButton": "Nous contacter",
+    "ourServicesButton": "Nos Services"
   },
-  "navbar": {
-    "home": "Accueil",
-    "aboutus": "Presentation de l'equipe",
-    "blog": "Blog"
-  }
+  "about": "À propos de nous",
+  "services": "Nos services",
+  "contact": "Nous contacter"
 }
