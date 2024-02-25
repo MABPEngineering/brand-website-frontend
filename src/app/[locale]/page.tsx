@@ -1,13 +1,13 @@
 import Link from 'next/link';
 
-import Wrapper from '../components/Wrapper';
+import BodyWrapper from '../components/BodyWrapper';
 import Navbar from '../components/Navbar';
 import Header from '../components/Header';
 import Services from '../components/Services';
 
 const Home = () => {
   return (
-    <Wrapper>
+    <BodyWrapper>
       <Navbar />
       <Header />
       <Services />
@@ -28,7 +28,7 @@ const Home = () => {
           </Link>
         </div>
       </div>
-    </Wrapper>
+    </BodyWrapper>
   );
 };
 

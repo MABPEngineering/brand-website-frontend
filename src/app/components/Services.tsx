@@ -14,7 +14,7 @@ const Services = () => {
         {servicesDb?.map((service) => {
           return (
             <ServiceCard
-              key={service.title}
+              key={service.id}
               title={service.title}
               description={service.description}
               icon={service.icon}

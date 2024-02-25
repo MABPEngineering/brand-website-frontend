@@ -10,13 +10,13 @@
 
   "Header": {
     "title": "Desde sitios web estelares hasta productos únicos, entregamos ",
-    "accent_title": "soluciones fuera de este mundo",
-    "contact_us": "Contáctenos",
-    "our_services": "Nuestros servicios",
-    "subtitle_one": "Ya sea un sitio web expositor, MVP o un proyecto complejo,",
-    "subtitle_accent": " supervisamos todo el proceso. ",
-    "subtitle_two": "Confíe en nosotros para convertir sus ideas en soluciones, donde la excelencia en ingeniería se encuentra con la innovación.",
-    "subtitle_three": "Su viaje comienza aquí, donde damos vida a su visión"
+    "accentTitle": "soluciones fuera de este mundo",
+    "contactUs": "Contáctenos",
+    "ourServices": "Nuestros servicios",
+    "subtitleOne": "Ya sea un sitio web expositor, MVP o un proyecto complejo,",
+    "subtitleAccent": " supervisamos todo el proceso. ",
+    "subtitleTwo": "Confíe en nosotros para convertir sus ideas en soluciones, donde la excelencia en ingeniería se encuentra con la innovación.",
+    "subtitleThree": "Su viaje comienza aquí, donde damos vida a su visión"
   },
 
   "Services": {

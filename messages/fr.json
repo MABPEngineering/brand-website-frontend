@@ -10,13 +10,13 @@
 
   "Header": {
     "title": "De sites web exceptionnels à des produits uniques, nous livrons ",
-    "accent_title": "des solutions hors du commun",
-    "contact_us": "Contactez-nous",
-    "our_services": "Nos services",
-    "subtitle_one": "Que ce soit un site web de démonstration, un MVP ou un projet complexe,",
-    "subtitle_accent": " nous supervisons l'ensemble du processus. ",
-    "subtitle_two": "Comptez sur nous pour concrétiser vos idées en solutions, là où l'excellence en ingénierie rencontre l'innovation.",
-    "subtitle_three": "Votre voyage commence ici, où nous donnons vie à votre vision"
+    "accentTitle": "des solutions hors du commun",
+    "contactUs": "Contactez-nous",
+    "ourServices": "Nos services",
+    "subtitleOne": "Que ce soit un site web de démonstration, un MVP ou un projet complexe,",
+    "subtitleAccent": " nous supervisons l'ensemble du processus. ",
+    "subtitleTwo": "Comptez sur nous pour concrétiser vos idées en solutions, là où l'excellence en ingénierie rencontre l'innovation.",
+    "subtitleThree": "Votre voyage commence ici, où nous donnons vie à votre vision"
   },
 
   "Services": {

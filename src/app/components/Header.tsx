@@ -25,14 +25,14 @@ const Header = () => {
       <div className="flex flex-col">
         <h1 className="font-bold text-3xl lg:text-5xl xl:text-6xl xl:mx-12">
           {t('title')}
-          <span className="text-accent">{t('accent_title')}</span>
+          <span className="text-accent">{t('accentTitle')}</span>
         </h1>
         <div className="flex justify-center mt-10 gap-x-3 md:gap-x-6">
           <button className="px-6 py-3 border-2 border-black">
-            {t('contact_us')}
+            {t('contactUs')}
           </button>
           <button className="px-6 py-3 text-white bg-black">
-            {t('our_services')}
+            {t('ourServices')}
           </button>
         </div>
         <div className="md:hidden">
@@ -49,11 +49,11 @@ const Header = () => {
           />
         </div>
         <p className="font-medium mt-2 md:mt-12 xl:mx-24 2xl:mx-32 2xl:text-xl">
-          {t('subtitle_one')}
-          <span className="text-accent">{t('subtitle_accent')}</span>
-          {t('subtitle_two')}
+          {t('subtitleOne')}
+          <span className="text-accent">{t('subtitleAccent')}</span>
+          {t('subtitleTwo')}
         </p>
-        <p className="font-bold text-2xl my-12">{t('subtitle_three')}</p>
+        <p className="font-bold text-2xl my-12">{t('subtitleThree')}</p>
       </div>
       <div className="flex flex-col items-center lg:w-4/5">
         <Image

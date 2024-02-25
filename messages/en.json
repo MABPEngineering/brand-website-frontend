@@ -9,13 +9,13 @@
   },
   "Header": {
     "title": "From stellar websites to unique products, we deliver ",
-    "accent_title": "out-of-this-world solutions",
-    "contact_us": "Contact us",
-    "our_services": "Our services",
-    "subtitle_one": "Whether it is a showcase website, MVP, or a complex project,",
-    "subtitle_accent": " we oversee the entire process. ",
-    "subtitle_two": "Count on us to turn your ideas into solutions—where engineering excellence meets innovation.",
-    "subtitle_three": "Your journey begins here, where we bring your vision to life"
+    "accentTitle": "out-of-this-world solutions",
+    "contactUs": "Contact us",
+    "ourServices": "Our services",
+    "subtitleOne": "Whether it is a showcase website, MVP, or a complex project,",
+    "subtitleAccent": " we oversee the entire process. ",
+    "subtitleTwo": "Count on us to turn your ideas into solutions—where engineering excellence meets innovation.",
+    "subtitleThree": "Your journey begins here, where we bring your vision to life"
   },
   "Services": {
     "servicesTitle": "More than building websites",
