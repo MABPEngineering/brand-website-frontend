@@ -23,7 +23,7 @@ const LocaleLayout = ({
 }) => {
   return (
     <html lang={locale}>
-      <body>{children}</body>
+      <body suppressHydrationWarning={true}>{children}</body>
     </html>
   );
 };

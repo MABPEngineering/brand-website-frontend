@@ -2,12 +2,51 @@
   "title": "MABP Brand Website ES",
   "description": "Mejor Brand Website en le mundo!",
 
-  "Index": {
-    "title": "Hola mundo!"
-  },
   "navbar": {
     "home": "Inicio",
     "aboutus": "Presentación del equipo",
     "blog": "Blog"
+  },
+
+  "Header": {
+    "title": "Desde sitios web estelares hasta productos únicos, entregamos ",
+    "accent_title": "soluciones fuera de este mundo",
+    "contact_us": "Contáctenos",
+    "our_services": "Nuestros servicios",
+    "subtitle_one": "Ya sea un sitio web expositor, MVP o un proyecto complejo,",
+    "subtitle_accent": " supervisamos todo el proceso. ",
+    "subtitle_two": "Confíe en nosotros para convertir sus ideas en soluciones, donde la excelencia en ingeniería se encuentra con la innovación.",
+    "subtitle_three": "Su viaje comienza aquí, donde damos vida a su visión"
+  },
+
+  "Services": {
+    "servicesTitle": "Más que construir páginas web",
+    "consultancyTitle": "Consultoría",
+    "consultancyDescription": "Desbloquea el potencial completo de tu negocio con nuestros servicios de consultoría experta. Ofrecemos conocimientos estratégicos y soluciones a medida para guiarte hacia el éxito.",
+    "consultancyAltIcon": "ícono de consultoría",
+    "orientationTitle": "Orientación para equipos tecnológicos",
+    "orientationDescription": "Potencia a tus equipos tecnológicos con nuestra orientación especializada. Ofrecemos formación específica y mentoría para mejorar sus habilidades y aumentar la eficiencia general.",
+    "orientationAltIcon": "ícono de orientación",
+    "architectureTitle": "Soluciones de arquitectura",
+    "architectureDescription": "Crea una base sólida para tu presencia digital. Nuestras soluciones de arquitectura garantizan sistemas escalables, seguros y optimizados que resisten la prueba del tiempo.",
+    "architectureAltIcon": "ícono de arquitectura",
+    "ecommerceTitle": "Comercio electrónico",
+    "ecommerceDescription": "Eleva tu negocio en línea con nuestras soluciones de comercio electrónico personalizadas. Desde experiencias de usuario fluidas hasta transacciones seguras, te tenemos cubierto.",
+    "ecommerceAltIcon": "ícono de comercio electrónico",
+    "mvpTitle": "MVP",
+    "mvpDescription": "Da vida rápidamente a tus ideas con nuestro desarrollo de MVP. Prueba tu producto e idea, recopila comentarios valiosos e itera hacia un exitoso lanzamiento del producto.",
+    "mvpAltIcon": "ícono de MVP",
+    "websiteTitle": "Desarrollo de sitios web y software",
+    "websiteDescription": "Lleva tu visión al ámbito digital. Nuestro equipo capacitado destaca en la creación de sitios web y software que combinan tecnología de vanguardia con un diseño intuitivo.",
+    "websiteAltIcon": "ícono de desarrollo de sitios web",
+    "mobileTitle": "Aplicaciones móviles",
+    "mobileDescription": "Captura el mercado móvil con nuestros servicios en desarrollo de aplicaciones móviles. Desde el concepto hasta la implementación, creamos aplicaciones que resuenan con tu audiencia.",
+    "mobileAltIcon": "ícono de aplicaciones móviles",
+    "blockchainTitle": "Blockchain",
+    "blockchainDescription": "Acepta el futuro de soluciones seguras y descentralizadas con nuestra experiencia en blockchain. Potenciamos a las empresas para prosperar en el ecosistema blockchain.",
+    "blockchainAltIcon": "ícono de blockchain",
+    "backendTitle": "Servicios de backend y base de datos",
+    "backendDescription": "Fortalece tu infraestructura digital con nuestros sólidos servicios de backend y bases de datos. Asegura un funcionamiento sin problemas y una gestión eficiente de datos para tus aplicaciones.",
+    "backendAltIcon": "ícono de backend y base de datos"
   }
 }

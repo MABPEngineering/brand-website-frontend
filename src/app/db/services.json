@@ -1,0 +1,56 @@
+[
+  {
+    "title": "consultancyTitle",
+    "description": "consultancyDescription",
+    "icon": "consultancy",
+    "altIcon": "consultancyAltIcon"
+  },
+  {
+    "title": "orientationTitle",
+    "description": "orientationDescription",
+    "icon": "orientation",
+    "altIcon": "orientationAltIcon"
+  },
+  {
+    "title": "architectureTitle",
+    "description": "architectureDescription",
+    "icon": "architecture",
+    "altIcon": "architectureAltIcon"
+  },
+  {
+    "title": "ecommerceTitle",
+    "description": "ecommerceDescription",
+    "icon": "e-commerce",
+    "altIcon": "ecommerceAltIcon"
+  },
+  {
+    "title": "mvpTitle",
+    "description": "mvpDescription",
+    "icon": "mvp",
+    "altIcon": "mvpAltIcon"
+  },
+  {
+    "title": "websiteTitle",
+    "description": "websiteDescription",
+    "icon": "web_development",
+    "altIcon": "websiteAltIcon"
+  },
+  {
+    "title": "mobileTitle",
+    "description": "mobileDescription",
+    "icon": "mobile",
+    "altIcon": "mobileAltIcon"
+  },
+  {
+    "title": "blockchainTitle",
+    "description": "blockchainDescription",
+    "icon": "blockchain",
+    "altIcon": "blockchainAltIcon"
+  },
+  {
+    "title": "backendTitle",
+    "description": "backendDescription",
+    "icon": "backend",
+    "altIcon": "backendAltIcon"
+  }
+]
