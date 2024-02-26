@@ -2,12 +2,69 @@
   "title": "Site Web de Marque MABP FR",
   "description": "Meilleur site web de marque d'entreprise dans le monde!",
 
-  "Index": {
-    "title": "Bonjour, le monde!"
-  },
   "navbar": {
     "home": "Accueil",
     "aboutus": "Presentation de l'equipe",
     "blog": "Blog"
+  },
+
+  "Header": {
+    "title": "De sites web exceptionnels à des produits uniques, nous livrons ",
+    "accentTitle": "des solutions hors du commun",
+    "contactUs": "Contactez-nous",
+    "ourServices": "Nos services",
+    "subtitleOne": "Que ce soit un site web de démonstration, un MVP ou un projet complexe,",
+    "subtitleAccent": " nous supervisons l'ensemble du processus. ",
+    "subtitleTwo": "Comptez sur nous pour concrétiser vos idées en solutions, là où l'excellence en ingénierie rencontre l'innovation.",
+    "subtitleThree": "Votre voyage commence ici, où nous donnons vie à votre vision"
+  },
+
+  "Services": {
+    "servicesTitle": "Plus que la construction de pages web",
+    "consultancy": {
+      "title": "Consultation",
+      "description": "Libérez tout le potentiel de votre entreprise avec nos services de consultation experts. Nous fournissons des idées stratégiques et des solutions sur mesure pour vous guider vers le succès.",
+      "altIcon": "icône de consultation"
+    },
+    "orientation": {
+      "title": "Orientation des équipes techniques",
+      "description": "Donnez du pouvoir à vos équipes techniques avec notre orientation spécialisée. Nous proposons une formation ciblée et un mentorat pour améliorer leurs compétences et augmenter l'efficacité globale.",
+      "altIcon": "icône d'orientation"
+    },
+    "architecture": {
+      "title": "Solutions d'architecture",
+      "description": "Créez une base solide pour votre présence numérique. Nos solutions d'architecture garantissent des systèmes évolutifs, sécurisés et optimisés qui résistent à l'épreuve du temps.",
+      "altIcon": "icône d'architecture"
+    },
+    "ecommerce": {
+      "title": "Commerce électronique",
+      "description": "Élevez votre entreprise en ligne avec nos solutions de commerce électronique personnalisées. Des expériences utilisateur sans faille aux transactions sécurisées, nous avons tout prévu.",
+      "altIcon": "icône de commerce électronique"
+    },
+    "mvp": {
+      "title": "MVP",
+      "description": "Donnez rapidement vie à vos idées avec notre développement de MVP. Testez les eaux, recueillez des commentaires précieux et itérez vers un lancement de produit réussi.",
+      "altIcon": "icône de MVP"
+    },
+    "website": {
+      "title": "Développement de sites web et de logiciels",
+      "description": "Apportez votre vision au monde numérique. Notre équipe qualifiée excelle dans la création de sites web et de logiciels alliant technologie de pointe et design intuitif.",
+      "altIcon": "icône de développement de sites web"
+    },
+    "mobile": {
+      "title": "Applications mobiles",
+      "description": "Capturez le marché mobile avec nos services experts en développement d'applications mobiles. Du concept au déploiement, nous créons des applications qui résonnent avec votre public.",
+      "altIcon": "icône d'applications mobiles"
+    },
+    "blockchain": {
+      "title": "Blockchain",
+      "description": "Adoptez l'avenir des solutions sécurisées et décentralisées avec notre expertise en blockchain. Nous permettons aux entreprises de prospérer dans l'écosystème blockchain.",
+      "altIcon": "icône de blockchain"
+    },
+    "backend": {
+      "title": "Services backend et bases de données",
+      "description": "Renforcez votre infrastructure numérique avec nos services robustes de backend et de bases de données. Assurez un fonctionnement sans faille et une gestion efficace des données pour vos applications.",
+      "altIcon": "icône de backend et de base de données"
+    }
   }
 }

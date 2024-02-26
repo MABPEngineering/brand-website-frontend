@@ -1,15 +1,17 @@
-import { useTranslations } from "next-intl";
-import Link from "next/link";
-import Navbar from "../components/Navbar";
+import Link from 'next/link';
+
+import BodyWrapper from '../components/BodyWrapper';
+import Navbar from '../components/Navbar';
+import Header from '../components/Header';
+import Services from '../components/Services';
 
 const Home = () => {
-  const t = useTranslations("Index");
-
   return (
-    <div>
+    <BodyWrapper>
       <Navbar />
-      <div className="flex flex-col">
-        <h1>{t("title")}</h1>
+      <Header />
+      <Services />
+      <div className="flex flex-col mt-24">
         <div>
           <Link locale="es" href="/es">
             Español
@@ -26,7 +28,7 @@ const Home = () => {
           </Link>
         </div>
       </div>
-    </div>
+    </BodyWrapper>
   );
 };
 

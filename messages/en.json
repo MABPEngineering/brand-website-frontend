@@ -2,12 +2,69 @@
   "title": "MABP Brand Website EN",
   "description": "Best Brand Website in the world!",
 
-  "Index": {
-    "title": "Hello world!"
-  },
   "navbar": {
     "home": "Home",
     "aboutus": "About us",
     "blog": "Blog"
+  },
+
+  "Header": {
+    "title": "From stellar websites to unique products, we deliver ",
+    "accentTitle": "out-of-this-world solutions",
+    "contactUs": "Contact us",
+    "ourServices": "Our services",
+    "subtitleOne": "Whether it is a showcase website, MVP, or a complex project,",
+    "subtitleAccent": " we oversee the entire process. ",
+    "subtitleTwo": "Count on us to turn your ideas into solutions—where engineering excellence meets innovation.",
+    "subtitleThree": "Your journey begins here, where we bring your vision to life"
+  },
+
+  "Services": {
+    "servicesTitle": "More than building websites",
+    "consultancy": {
+      "title": "Consultancy",
+      "description": "Unlock your business's full potential with our expert consultancy services. We provide strategic insights and tailored solutions to guide you towards success.",
+      "altIcon": "consultancy icon"
+    },
+    "orientation": {
+      "title": "Orientation to tech teams",
+      "description": "Empower your tech teams with our specialized guidance. We offer targeted training and mentorship to enhance their skills and boost overall efficiency.",
+      "altIcon": "Orientation icon"
+    },
+    "architecture": {
+      "title": "Architecture solutions",
+      "description": "Craft a robust foundation for your digital presence. Our architecture solutions ensure scalable, secure, and optimized systems that stand the test of time.",
+      "altIcon": "Architecture icon"
+    },
+    "ecommerce": {
+      "title": "e-commerce",
+      "description": "Elevate your online business with our customized e-commerce solutions. From seamless user experiences to secure transactions, we have you covered.",
+      "altIcon": "E-commerce icon"
+    },
+    "mvp": {
+      "title": "MVP",
+      "description": "Rapidly bring your ideas to life with our MVP development. Test the waters, gather valuable feedback, and iterate towards a successful product launch.",
+      "altIcon": "MVP icon"
+    },
+    "website": {
+      "title": "Website and software Development",
+      "description": "Bring your vision to the digital realm. Our skilled team excels in crafting websites and software that blend cutting-edge technology with intuitive design.",
+      "altIcon": "Website development icon"
+    },
+    "mobile": {
+      "title": "Mobile applications",
+      "description": "Capture the mobile market with our expert mobile app development services. From concept to deployment, we create apps that resonate with your audience.",
+      "altIcon": "Mobile applications icon"
+    },
+    "blockchain": {
+      "title": "blockchain",
+      "description": "Embrace the future of secure, decentralized solutions with our blockchain expertise. We empower businesses to thrive in the blockchain ecosystem.",
+      "altIcon": "Blockchain icon"
+    },
+    "backend": {
+      "title": "Backend and database services",
+      "description": "Fortify your digital infrastructure with our robust backend and database services. Ensure seamless functionality and efficient data management for your applications.",
+      "altIcon": "Backend and database icon"
+    }
   }
 }

@@ -23,7 +23,8 @@ const LocaleLayout = ({
 }) => {
   return (
     <html lang={locale}>
-      <body>{children}</body>
+      {/* suppressHydrationWarning prop added to hide warnings due to Chrome extensions  */}
+      <body suppressHydrationWarning={true}>{children}</body>
     </html>
   );
 };

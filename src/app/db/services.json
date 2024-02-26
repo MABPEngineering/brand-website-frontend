@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "category": "consultancy",
+    "icon": "consultancy"
+  },
+  {
+    "id": 2,
+    "category": "orientation",
+    "icon": "orientation"
+  },
+  {
+    "id": 3,
+    "category": "architecture",
+    "icon": "architecture"
+  },
+  {
+    "id": 4,
+    "category": "ecommerce",
+    "icon": "e-commerce"
+  },
+  {
+    "id": 5,
+    "category": "mvp",
+    "icon": "mvp"
+  },
+  {
+    "id": 6,
+    "category": "website",
+    "icon": "web_development"
+  },
+  {
+    "id": 7,
+    "category": "mobile",
+    "icon": "mobile"
+  },
+  {
+    "id": 8,
+    "category": "blockchain",
+    "icon": "blockchain"
+  },
+  {
+    "id": 9,
+    "category": "backend",
+    "icon": "backend"
+  }
+]
