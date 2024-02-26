@@ -5,6 +5,7 @@ import servicesDb from '../db/services.json';
 
 const Services = () => {
   const t = useTranslations('Services');
+
   return (
     <>
       <h1 className="font-black mx-8 mt-12 text-4xl xl:text-6xl 2xl:mt-32">
@@ -15,10 +16,8 @@ const Services = () => {
           return (
             <ServiceCard
               key={service.id}
-              title={service.title}
-              description={service.description}
+              category={service.category}
               icon={service.icon}
-              altIcon={service.altIcon}
             />
           );
         })}

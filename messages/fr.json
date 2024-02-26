@@ -21,32 +21,50 @@
 
   "Services": {
     "servicesTitle": "Plus que la construction de pages web",
-    "consultancyTitle": "Consultation",
-    "consultancyDescription": "Libérez tout le potentiel de votre entreprise avec nos services de consultation experts. Nous fournissons des idées stratégiques et des solutions sur mesure pour vous guider vers le succès.",
-    "consultancyAltIcon": "icône de consultation",
-    "orientationTitle": "Orientation des équipes techniques",
-    "orientationDescription": "Donnez du pouvoir à vos équipes techniques avec notre orientation spécialisée. Nous proposons une formation ciblée et un mentorat pour améliorer leurs compétences et augmenter l'efficacité globale.",
-    "orientationAltIcon": "icône d'orientation",
-    "architectureTitle": "Solutions d'architecture",
-    "architectureDescription": "Créez une base solide pour votre présence numérique. Nos solutions d'architecture garantissent des systèmes évolutifs, sécurisés et optimisés qui résistent à l'épreuve du temps.",
-    "architectureAltIcon": "icône d'architecture",
-    "ecommerceTitle": "Commerce électronique",
-    "ecommerceDescription": "Élevez votre entreprise en ligne avec nos solutions de commerce électronique personnalisées. Des expériences utilisateur sans faille aux transactions sécurisées, nous avons tout prévu.",
-    "ecommerceAltIcon": "icône de commerce électronique",
-    "mvpTitle": "MVP (Produit Minimum Viable)",
-    "mvpDescription": "Donnez rapidement vie à vos idées avec notre développement de MVP. Testez les eaux, recueillez des commentaires précieux et itérez vers un lancement de produit réussi.",
-    "mvpAltIcon": "icône de MVP",
-    "websiteTitle": "Développement de sites web et de logiciels",
-    "websiteDescription": "Apportez votre vision au monde numérique. Notre équipe qualifiée excelle dans la création de sites web et de logiciels alliant technologie de pointe et design intuitif.",
-    "websiteAltIcon": "icône de développement de sites web",
-    "mobileTitle": "Applications mobiles",
-    "mobileDescription": "Capturez le marché mobile avec nos services experts en développement d'applications mobiles. Du concept au déploiement, nous créons des applications qui résonnent avec votre public.",
-    "mobileAltIcon": "icône d'applications mobiles",
-    "blockchainTitle": "Blockchain",
-    "blockchainDescription": "Adoptez l'avenir des solutions sécurisées et décentralisées avec notre expertise en blockchain. Nous permettons aux entreprises de prospérer dans l'écosystème blockchain.",
-    "blockchainAltIcon": "icône de blockchain",
-    "backendTitle": "Services backend et bases de données",
-    "backendDescription": "Renforcez votre infrastructure numérique avec nos services robustes de backend et de bases de données. Assurez un fonctionnement sans faille et une gestion efficace des données pour vos applications.",
-    "backendAltIcon": "icône de backend et de base de données"
+    "consultancy": {
+      "title": "Consultation",
+      "description": "Libérez tout le potentiel de votre entreprise avec nos services de consultation experts. Nous fournissons des idées stratégiques et des solutions sur mesure pour vous guider vers le succès.",
+      "consultancyAltIcon": "icône de consultation"
+    },
+    "orientation": {
+      "title": "Orientation des équipes techniques",
+      "description": "Donnez du pouvoir à vos équipes techniques avec notre orientation spécialisée. Nous proposons une formation ciblée et un mentorat pour améliorer leurs compétences et augmenter l'efficacité globale.",
+      "orientationAltIcon": "icône d'orientation"
+    },
+    "architecture": {
+      "title": "Solutions d'architecture",
+      "description": "Créez une base solide pour votre présence numérique. Nos solutions d'architecture garantissent des systèmes évolutifs, sécurisés et optimisés qui résistent à l'épreuve du temps.",
+      "architectureAltIcon": "icône d'architecture"
+    },
+    "ecommerce": {
+      "title": "Commerce électronique",
+      "description": "Élevez votre entreprise en ligne avec nos solutions de commerce électronique personnalisées. Des expériences utilisateur sans faille aux transactions sécurisées, nous avons tout prévu.",
+      "ecommerceAltIcon": "icône de commerce électronique"
+    },
+    "mvp": {
+      "title": "MVP",
+      "description": "Donnez rapidement vie à vos idées avec notre développement de MVP. Testez les eaux, recueillez des commentaires précieux et itérez vers un lancement de produit réussi.",
+      "mvpAltIcon": "icône de MVP"
+    },
+    "website": {
+      "title": "Développement de sites web et de logiciels",
+      "description": "Apportez votre vision au monde numérique. Notre équipe qualifiée excelle dans la création de sites web et de logiciels alliant technologie de pointe et design intuitif.",
+      "websiteAltIcon": "icône de développement de sites web"
+    },
+    "mobile": {
+      "title": "Applications mobiles",
+      "description": "Capturez le marché mobile avec nos services experts en développement d'applications mobiles. Du concept au déploiement, nous créons des applications qui résonnent avec votre public.",
+      "mobileAltIcon": "icône d'applications mobiles"
+    },
+    "blockchain": {
+      "title": "Blockchain",
+      "description": "Adoptez l'avenir des solutions sécurisées et décentralisées avec notre expertise en blockchain. Nous permettons aux entreprises de prospérer dans l'écosystème blockchain.",
+      "blockchainAltIcon": "icône de blockchain"
+    },
+    "backend": {
+      "title": "Services backend et bases de données",
+      "description": "Renforcez votre infrastructure numérique avec nos services robustes de backend et de bases de données. Assurez un fonctionnement sans faille et une gestion efficace des données pour vos applications.",
+      "backendAltIcon": "icône de backend et de base de données"
+    }
   }
 }
