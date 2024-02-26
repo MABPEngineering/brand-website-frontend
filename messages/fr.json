@@ -4,8 +4,9 @@
 
   "navbar": {
     "home": "Accueil",
-    "aboutus": "Presentation de l'equipe",
-    "blog": "Blog"
+    "services": "Services",
+    "blog": "Blog",
+    "contactUs": "Contactez-nous"
   },
 
   "Header": {

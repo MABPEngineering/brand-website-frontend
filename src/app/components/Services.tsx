@@ -1,13 +1,13 @@
 import { useTranslations } from 'next-intl';
 
-import ServiceCard from './ServiceCard';
 import servicesDb from '../db/services.json';
+import ServiceCard from './ServiceCard';
 
 const Services = () => {
   const t = useTranslations('Services');
 
   return (
-    <>
+    <section id="services">
       <h1 className="font-black mx-8 mt-12 text-4xl xl:text-6xl 2xl:mt-32">
         {t('servicesTitle')}
       </h1>
@@ -22,7 +22,7 @@ const Services = () => {
           );
         })}
       </div>
-    </>
+    </section>
   );
 };
 
