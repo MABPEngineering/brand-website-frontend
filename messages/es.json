@@ -25,47 +25,47 @@
     "consultancy": {
       "title": "Consultoría",
       "description": "Desbloquea el potencial completo de tu negocio con nuestros servicios de consultoría experta. Ofrecemos conocimientos estratégicos y soluciones a medida para guiarte hacia el éxito.",
-      "consultancyAltIcon": "ícono de consultoría"
+      "altIcon": "ícono de consultoría"
     },
     "orientation": {
       "title": "Orientación para equipos tecnológicos",
       "description": "Potencia a tus equipos tecnológicos con nuestra orientación especializada. Ofrecemos formación específica y mentoría para mejorar sus habilidades y aumentar la eficiencia general.",
-      "orientationAltIcon": "ícono de orientación"
+      "altIcon": "ícono de orientación"
     },
     "architecture": {
       "title": "Soluciones de arquitectura",
       "description": "Crea una base sólida para tu presencia digital. Nuestras soluciones de arquitectura garantizan sistemas escalables, seguros y optimizados que resisten la prueba del tiempo.",
-      "architectureAltIcon": "ícono de arquitectura"
+      "altIcon": "ícono de arquitectura"
     },
     "ecommerce": {
       "title": "Comercio electrónico",
       "description": "Eleva tu negocio en línea con nuestras soluciones de comercio electrónico personalizadas. Desde experiencias de usuario fluidas hasta transacciones seguras, te tenemos cubierto.",
-      "ecommerceAltIcon": "ícono de comercio electrónico"
+      "altIcon": "ícono de comercio electrónico"
     },
     "mvp": {
       "title": "MVP",
       "description": "Da vida rápidamente a tus ideas con nuestro desarrollo de MVP. Prueba tu producto e idea, recopila comentarios valiosos e itera hacia un exitoso lanzamiento del producto.",
-      "mvpAltIcon": "ícono de MVP"
+      "altIcon": "ícono de MVP"
     },
     "website": {
       "title": "Desarrollo de sitios web y software",
       "description": "Lleva tu visión al ámbito digital. Nuestro equipo capacitado destaca en la creación de sitios web y software que combinan tecnología de vanguardia con un diseño intuitivo.",
-      "websiteAltIcon": "ícono de desarrollo de sitios web"
+      "altIcon": "ícono de desarrollo de sitios web"
     },
     "mobile": {
       "title": "Aplicaciones móviles",
       "description": "Captura el mercado móvil con nuestros servicios en desarrollo de aplicaciones móviles. Desde el concepto hasta la implementación, creamos aplicaciones que resuenan con tu audiencia.",
-      "mobileAltIcon": "ícono de aplicaciones móviles"
+      "altIcon": "ícono de aplicaciones móviles"
     },
     "blockchain": {
       "title": "Blockchain",
       "description": "Acepta el futuro de soluciones seguras y descentralizadas con nuestra experiencia en blockchain. Potenciamos a las empresas para prosperar en el ecosistema blockchain.",
-      "blockchainAltIcon": "ícono de blockchain"
+      "altIcon": "ícono de blockchain"
     },
     "backend": {
       "title": "Servicios de backend y base de datos",
       "description": "Fortalece tu infraestructura digital con nuestros sólidos servicios de backend y bases de datos. Asegura un funcionamiento sin problemas y una gestión eficiente de datos para tus aplicaciones.",
-      "backendAltIcon": "ícono de backend y base de datos"
+      "altIcon": "ícono de backend y base de datos"
     }
   }
 }
