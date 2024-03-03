@@ -1,7 +1,6 @@
-import React from 'react';
 
-import Image from 'next/image';
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 
 import headerAstronaut from '../../../public/header/header-astronaut.png';
 import shadow from '../../../public/header/shadow.png';
@@ -21,7 +20,7 @@ const Header = () => {
   }
 
   return (
-    <main className="flex items-center my-6 mx-2 md:flex-row md:mx-4 lg:mx-12 2xl:mt-24">
+    <main id="main" className="flex items-center my-6 mx-2 md:flex-row md:mx-4 lg:mx-12 2xl:mt-24">
       <div className="flex flex-col">
         <h1 className="font-bold text-3xl lg:text-5xl xl:text-6xl xl:mx-12">
           {t('title')}
