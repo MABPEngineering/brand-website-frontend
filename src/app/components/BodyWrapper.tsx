@@ -6,7 +6,7 @@ interface WrapperProps {
 
 const Wrapper = ({ children }: WrapperProps) => {
   return (
-    <div className="bg-white mx-auto max-w-screen-2xl font-body text-black text-center min-h-screen">
+    <div className="bg-white mx-auto max-w-screen-2xl font-body text-black text-center">
       {children}
     </div>
   );
