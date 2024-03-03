@@ -66,5 +66,11 @@
       "description": "Fortify your digital infrastructure with our robust backend and database services. Ensure seamless functionality and efficient data management for your applications.",
       "altIcon": "Backend and database icon"
     }
+  },
+
+  "Process": {
+    "processHeaderTitle": "Your projects will take off to the moon",
+    "processTitle": "With our expert team, we bring your dream projects to life swiftly and affordably.",
+    "processSubtitle": " No more struggling to design, build and release your dream product"
   }
 }

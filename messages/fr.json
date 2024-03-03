@@ -66,5 +66,11 @@
       "description": "Renforcez votre infrastructure numérique avec nos services robustes de backend et de bases de données. Assurez un fonctionnement sans faille et une gestion efficace des données pour vos applications.",
       "altIcon": "icône de backend et de base de données"
     }
+  },
+
+  "Process": {
+    "processHeaderTitle": "Vos projets décolleront vers la lune",
+    "processTitle": "Avec notre équipe d'experts, nous concrétisons rapidement et à moindre coût vos projets les plus chers.",
+    "processSubtitle": "Plus de difficultés pour concevoir, construire et lancer votre produit de rêve"
   }
 }
